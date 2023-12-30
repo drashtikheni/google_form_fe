@@ -1,0 +1,9 @@
+export const BOOLEAN = "boolean";
+export const OBJECT = "object";
+export const STRING = "string";
+export const canBeEmpty = "canBeEmpty";
+export const notEmptyOrNull = "notEmptyOrNull";
+export const EMPTY_VALUE = "";
+export const text = "text";
+export const select = "select";
+export const question = "question";
